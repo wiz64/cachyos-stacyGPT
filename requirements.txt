@@ -1,0 +1,5 @@
+discord.py==2.2.0
+faiss-cpu
+langchain==0.0.95
+python-dotenv==1.0.0
+openai
