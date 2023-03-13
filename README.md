@@ -1,6 +1,6 @@
 # Stacy CachyOS AI
 
-A  *powerful* and flexible AI Chatbot powered by GPT-3 and FAISS 
+A  *powerful* and flexible AI Chatbot powered by GPT-3, LangChain and FAISS 
 
 # Environment Setup
 Run the setup command to download wiki files (markdown supported):
